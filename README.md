@@ -1,2 +1,2 @@
-# sf_data_science
-SF homework
+## Python project
+# Game 1
